@@ -8,6 +8,6 @@ before_script:
 script:
   - cmake ../381903-3_Stetsenko__lab_3_4
   - make -j
-  - ./test/test_Steck
+  - ./test/MP2_TESTS
 notifications:
   email: false
